@@ -1,0 +1,44 @@
+img{
+    margin: 1px;
+    width: 200px;
+    height: 200px;
+}
+body{
+     background-color: grey;
+    }
+table,tr,td{
+    border: 3px solid black;
+    background-color: rgb(238, 217, 217);
+}
+/*table{width: 20%;}*/
+th{
+    height: 70px;
+    text-align: center;
+    border: double black;
+}
+u{
+    font-size: larger;
+}
+
+#Sign{
+   /* background-image: url(https://images.hdqwalls.com/download/moon-lunar-eclipse-dark-5k-p8-1920x1080.jpg);*/
+    
+    height: 100%;
+    width: 95%;
+    background-image: url(https://images.hdqwalls.com/download/moon-lunar-eclipse-dark-5k-p8-1920x1080.jpg);
+}
+form{
+    color: whitesmoke;
+    margin: auto;
+}
+p{
+    /*text-orientation: sideways-right;*/
+    color: blue;
+    font-size: large;
+}
+#Log{
+    height: 100%;
+    width: 95%;
+    background-image: url(https://images.hdqwalls.com/download/moon-lunar-eclipse-dark-5k-p8-1920x1080.jpg);
+
+}
