@@ -3,6 +3,18 @@ img{
     width: 200px;
     height: 200px;
 }
+
+#head{
+    text-align: center;
+    color:rgb(155, 202, 84) ;
+    text-shadow:2px 2px  rgb(245, 43, 43);
+    border: 2px solid rgb(63, 10, 10);
+    border-radius: 9px;
+    padding: 3px 4px 5px 10px;
+    margin: 2px 250px 7px 250px;
+    box-shadow: 2px 1px 5px rgb(99, 189, 192);
+    
+}
 body{
      background-color: grey;
     }
@@ -16,8 +28,20 @@ th{
     text-align: center;
     border: double black;
 }
+#LastL{
+    font-size: xx-large;
+    margin-left: 5px;
+    color: rgb(63, 10, 10);
+    text-shadow: 2px 2px 3px rgb(99, 189, 192);
+}
+a{
+    color: blue;
+    text-shadow: 0px 0px;
+}
+
 u{
     font-size: larger;
+   
 }
 
 #Sign{
